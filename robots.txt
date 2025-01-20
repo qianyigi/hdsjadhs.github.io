@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /login
+Sitemap:hdsjadhs.github.ioEJW/sitemap_index.txt
+Sitemap:hdsjadhs.github.ioXQX/sitemap_index.txt
+Sitemap:hdsjadhs.github.ioCBM/sitemap_index.txt
+Sitemap:hdsjadhs.github.ioUWG/sitemap_index.txt
+Sitemap:hdsjadhs.github.ioWPI/sitemap_index.txt
+Sitemap:hdsjadhs.github.ioTOH/sitemap_index.txt
+Sitemap:hdsjadhs.github.ioVAF/sitemap_index.txt
+Sitemap:hdsjadhs.github.ioEMY/sitemap_index.txt
+Sitemap:hdsjadhs.github.ioKDV/sitemap_index.txt
+Sitemap:hdsjadhs.github.ioYLH/sitemap_index.txt
+Sitemap:hdsjadhs.github.ioQOL/sitemap_index.txt
+Sitemap:hdsjadhs.github.ioXGN/sitemap_index.txt
+Sitemap:hdsjadhs.github.ioECA/sitemap_index.txt
+Sitemap:hdsjadhs.github.ioTPX/sitemap_index.txt
+Sitemap:hdsjadhs.github.ioRED/sitemap_index.txt
